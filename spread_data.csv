@@ -1,0 +1,11 @@
+﻿paper,system,effectsize_ID,gens,founder_N,evo_mean_dist,noevo_mean_dist,evo_sd_dist,noevo_sd_dist,evo_N,noevo_N,landscape,comments
+Weiss-Lehman et al. 2017,Tribolium_castaneum,1,8,20,24.8,22.9,2.8,2.1,28,29,benign_continuous,
+Szucs et al. 2017,Tribolium_castaneum,2,6,20,8.7,6,1.4,1.3,35,39,novel_continuous,
+Williams et al. 2016,Arabidopsis_thaliana,3,6,42,122.8,109.6,10,17.65,9,9,benign_continuous,
+Williams et al. 2016,Arabidopsis_thaliana,4,6,42,62.2,61.3,27.4,23.3,10,10,small_fragmentation,
+Williams et al. 2016,Arabidopsis_thaliana,5,6,42,53.6,31.8,24.5,28.8,9,9,medium_fragmentation,
+Williams et al. 2016,Arabidopsis_thaliana,6,6,42,61,19,24.1,18.2,8,8,large_fragmentation,
+Fronhofer & Altermatt 2017,Tetrahymena_thermophila,7,2160,,972648,469800,92880,45792,4,4,benign_continuous,(1) data obtained from Fig 1; (2) used core and edge data for evo and non-evo columns respectively; (3) converted speed to distance; (4) gens in seconds
+Fronhofer & Altermatt 2015,Tetrahymena_pyriformis,8,2073600,,1139028,339241,42923.52,10575.36,6,6,benign_continuous,(1) data obtained from Fig 1; (2) used core and edge data for evo and non-evo columns respectively; (3) converted speed to distance; (4) gens in seconds
+Ochocki & Miller 2017,Callosobruchus_maculatus,9,10,50,152.944,139.278,16.594,7.419,9,9,benign_continuous,
+Van Petegem et al. 2017,Tetranychus_urticae,10,8,,24.3,17.7,5.32,4.76,6,6,benign_continuous,
